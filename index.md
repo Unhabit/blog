@@ -6,7 +6,7 @@ Hello, my name is nahid. I attend Brooklyn STEAM Center. I am currently learning
  
  [Personal Website](https://unhabit.github.io)
 
- ## Recent Posts
+## Recent Posts
 
 <ul>
   {% for post in site.posts %}
