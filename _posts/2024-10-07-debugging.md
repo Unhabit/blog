@@ -39,7 +39,6 @@ else:
 ### Debugging Tip:
 When using multiple conditions, test values at every threshold and examine edge cases to ensure each path is covered.
 
-#
 
 ## 2. Debugging a Space Counter in Strings
 
@@ -77,7 +76,6 @@ print(count)
 ### Debugging Tip:
 If a condition isn’t triggering as expected, print variables within the loop to verify their values. This helps confirm if conditions are met correctly.
 
-#
 
 ## 3. Debugging Even/Odd Number Checker from 1 to ```n```
 
@@ -115,7 +113,6 @@ for num in range(1, n):
 ### Debugging Tip:
 Use ```print()``` to check data types and variable values. This helps pinpoint incorrect type usage or unexpected results from operations.
 
-#
 
 ## 4. Debugging Factorial Calculation
 ```python
@@ -160,7 +157,6 @@ else:
 ### Debugging Tip:
 Use ```type()``` to confirm if variable types match expectations, especially when combining strings and integers in output.
 
-# 
 
 ## 5. Debugging Password Attempts with a Limit
 
@@ -212,6 +208,5 @@ while True:
 ### Debugging Tip:
 When working with loops, test both successful and unsuccessful cases to ensure proper control flow, especially when managing breakpoints or limited attempts.
 
-#
 
 Debugging is a fundamental skill in programming, and learning how to identify common issues improves your code quality and productivity. By running test cases, examining variable values, and checking data types, you can efficiently debug and refine your Python code.
